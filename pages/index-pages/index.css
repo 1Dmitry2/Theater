@@ -1,0 +1,22 @@
+.section__bg{
+    position: absolute;
+    width: 100%;
+    background-image: url('../../images/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text{
+    padding-top: 308px;
+    padding-bottom: 51px;
+    max-width: 1161px;
+}
+.title{
+    font-family: 'Rubik';
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 85px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
